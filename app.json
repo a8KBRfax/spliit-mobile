@@ -24,6 +24,9 @@
         "usesNonExemptEncryption": false
       }
     },
+    "android": {
+      "package": "app.spliit.spliitmobile"
+    },
     "plugins": [
       "expo-localization"
     ]
